@@ -1,2 +1,3 @@
 # vb-demo
-This is my Git repository
+This is my first Git repository. 
+Author: Vishal Biswas
